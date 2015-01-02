@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0291B0AB-EC78-4111-B6F2-D85EFC58D8A4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LabBook</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A37F602073E5AD8DC689B32DE32C5F1B9259C967</key>
+		<string>https://github.com/CorrineAndRober/MyWorkRecord.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LabBook.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A37F602073E5AD8DC689B32DE32C5F1B9259C967</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Corrine530/MyWorkRecord.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A37F602073E5AD8DC689B32DE32C5F1B9259C967</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A37F602073E5AD8DC689B32DE32C5F1B9259C967</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A37F602073E5AD8DC689B32DE32C5F1B9259C967</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyWorkRecord</string>
+		</dict>
+	</array>
+</dict>
+</plist>
